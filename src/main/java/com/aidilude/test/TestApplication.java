@@ -14,5 +14,9 @@ public class TestApplication {
 		System.out.println("fun1");
 	}
 
+	public void fun2(){
+		System.out.println("fun2");
+	}
+
 }
 
