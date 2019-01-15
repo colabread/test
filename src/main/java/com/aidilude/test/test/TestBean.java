@@ -14,4 +14,8 @@ public class TestBean {
         System.out.println("fun3");
     }
 
+    public void fun4(){
+        System.out.println("fun4");
+    }
+
 }
