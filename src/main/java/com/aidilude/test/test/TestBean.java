@@ -10,4 +10,8 @@ public class TestBean {
         System.out.println("fun2");
     }
 
+    public void fun3(){
+        System.out.println("fun3");
+    }
+
 }
