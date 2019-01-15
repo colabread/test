@@ -10,13 +10,4 @@ public class TestApplication {
 		SpringApplication.run(TestApplication.class, args);
 	}
 
-	public void fun1(){
-		System.out.println("fun1");
-	}
-
-	public void fun2(){
-		System.out.println("fun2");
-	}
-
 }
-
