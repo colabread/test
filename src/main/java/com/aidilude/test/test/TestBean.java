@@ -18,4 +18,8 @@ public class TestBean {
         System.out.println("fun4");
     }
 
+    public void fun5(){
+        System.out.println("fun5");
+    }
+
 }
